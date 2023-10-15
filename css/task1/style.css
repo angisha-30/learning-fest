@@ -1,0 +1,10 @@
+div{
+    background-color:aqua;
+}
+div>h1{
+    text-align: center;
+    color: antiquewhite;
+}
+div>p{
+    font-family:fantasy, Geneva, Tahoma, sans-seriff;
+}
